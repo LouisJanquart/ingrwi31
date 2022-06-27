@@ -14,3 +14,12 @@ body {
   width: 20%;
   background: teal;
 }
+.navigation ul {
+  display: flex;
+  padding: 0;
+  margin: 0;
+}
+.navigation li {
+  padding: 1rem;
+  list-style-type: none;
+}
