@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 body {
-  background: olivedrab;
+  background: olive;
 }
 .content {
   display: flex;
@@ -12,5 +12,4 @@ body {
 }
 .sidebar {
   width: 20%;
-  background: olive;
 }
