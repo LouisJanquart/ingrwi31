@@ -2,13 +2,13 @@
   box-sizing: border-box;
 }
 body {
-  background: olive;
+  background: sandybrown;
 }
 .content {
   display: flex;
 }
 .main {
-  width: 80%
+  width: 80%;
 }
 .sidebar {
   min-width: 20%;
